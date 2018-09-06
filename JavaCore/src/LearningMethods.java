@@ -41,6 +41,9 @@ public class LearningMethods {
 		System.out.println(calculate.div(300, 5));
 		
 		
+		double num = Math.random();
+		System.out.println(num);
+		
 		
 	}
 
