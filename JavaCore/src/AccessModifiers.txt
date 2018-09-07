@@ -1,0 +1,7 @@
+Default - can only be accessed inside the current package/class
+
+Public - can be accessed anywhere inside any package/class in the current project
+
+Private - can only be accessed inside the current class
+
+Protected - can only be accessed within the same class/package and sub classes
